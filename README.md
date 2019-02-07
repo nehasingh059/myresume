@@ -1,2 +1,2 @@
 # myresume
-It is a webpage which provide quite introduction about me
+It is a self-project created using Html, CSS, Bootstrap, and Javascript to give the introduction about me
